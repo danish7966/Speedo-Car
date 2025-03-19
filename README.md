@@ -1,5 +1,5 @@
-# My first repository
-**Name** Danish Mahmood 
-**Education** Bachlor 
-**intrest** To learn Artificial Intelligence 
+# My first repository<br>
+**Name** Danish Mahmood </br>
+**Education** Bachlor <br>
+**intrest** To learn Artificial Intelligence <br>
 **Github purpose** Working on project
