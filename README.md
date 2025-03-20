@@ -3,3 +3,4 @@
 **Education** Bachlor <br>
 **intrest** To learn Artificial Intelligence <br>
 **Github purpose** Working on project
+***First assignment**
